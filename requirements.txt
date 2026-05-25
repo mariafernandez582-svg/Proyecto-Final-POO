@@ -1,0 +1,2 @@
+# Este proyecto usa inicamnete la biblioteca estandar de Python 3 
+# tkinter viene incluido con python - no requiere instalacion adiconal

@@ -38,8 +38,8 @@ Taller Final - POO/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/taller-final-poo.git
-cd taller-final-poo
+git clone  https://github.com/mariafernandez582-svg/Proyecto-Final-POO.git
+cd Proyecto-Final-POO
 ```
 
 ### 2. Crear y activar el entorno virtual
